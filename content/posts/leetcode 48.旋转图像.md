@@ -1,11 +1,11 @@
 ---
 author: "nanko"
 author_link: ""
-title: "leetcode 48.旋转图像"
+title: "Leetcode 48.旋转图像"
 date: 2020-10-03T21:23:56+08:00
 lastmod: 2020-10-03T21:23:56+08:00
 draft: false
-description: "leetcode 48.旋转图像"
+description: "Leetcode 48.旋转图像"
 show_in_homepage: true
 description_as_summary: true
 license: ""

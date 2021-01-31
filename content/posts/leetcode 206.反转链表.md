@@ -1,11 +1,11 @@
 ---
 author: "nanko"
 author_link: ""
-title: "leetcode 206.反转链表"
+title: "Leetcode 206.反转链表"
 date: 2020-10-05T21:23:56+08:00
 lastmod: 2020-10-05T21:23:56+08:00
 draft: false
-description: "leetcode 206.反转链表"
+description: "Leetcode 206.反转链表"
 show_in_homepage: true
 description_as_summary: true
 license: ""

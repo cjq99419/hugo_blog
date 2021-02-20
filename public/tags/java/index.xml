@@ -1,0 +1,15 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>java - 标签 - nanko的快乐小窝</title>
+        <link>https://example.com/tags/java/</link>
+        <description>java - 标签 - nanko的快乐小窝</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>cjq99419@163.com (nanko)</managingEditor>
+            <webMaster>cjq99419@163.com (nanko)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Thu, 15 Oct 2020 22:23:56 &#43;0800</lastBuildDate><atom:link href="https://example.com/tags/java/" rel="self" type="application/rss+xml" /><item>
+    <title>关于Java与Golang的GC</title>
+    <link>https://example.com/%E5%85%B3%E4%BA%8Ejava%E5%92%8Cgolang%E7%9A%84gc/</link>
+    <pubDate>Thu, 15 Oct 2020 22:23:56 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>https://example.com/%E5%85%B3%E4%BA%8Ejava%E5%92%8Cgolang%E7%9A%84gc/</guid>
+    <description><![CDATA[关于Java与Golang的GC 本文只做GC方面的一些概述，具体细节请单独看一些优秀blog。 同时文章内容为个人理解，欢迎评论指责，谢谢！ 一]]></description>
+</item></channel>
+</rss>

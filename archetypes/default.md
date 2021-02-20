@@ -1,5 +1,5 @@
 ---
-title: {{ .title }}
+title: ""
 subtitle: ""
 date: {{ .Date }}
 lastmod: {{ .Date }}

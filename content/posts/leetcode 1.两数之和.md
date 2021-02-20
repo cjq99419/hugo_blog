@@ -9,8 +9,14 @@ authorLink: ""
 show_in_homepage: false
 description: "Leetcode 1.两数之和"
 
-tags: []
-categories: []
+tags: [
+    "golang",
+	"leetcode",
+	"algorithm",
+]
+categories: [
+    "leetcode",
+]
 
 hiddenFromHomePage: false
 hiddenFromSearch: false

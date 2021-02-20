@@ -27,7 +27,6 @@ toc: true
 auto_collapse_toc: true
 math: true
 dev: true
-
 ---
 
 
